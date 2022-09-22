@@ -1,0 +1,15 @@
+{
+  "name": "nodeig",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "author": "dumpy",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
